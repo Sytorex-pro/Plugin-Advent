@@ -1,2 +1,35 @@
 {
+    "ADVENT__TITLE": "Advent calendar",
+    "ADVENT__CONFIG": "Configuration",
+    "ADVENT__GIFT": "Gifts",
+    "ADVENT__HISTORY": "History",
+  
+    "ADVENT__INDEX_DESC": "You can collect rewards every day in December, if you do not collect the reward the same day it will no longer be available.",
+  
+    "ADVENT__INDEX_COLLECT": "Already retrieved",
+    "ADVENT__INDEX_CAN_COLLECT": "Available",
+    "ADVENT__INDEX_FORGET": "Not collected",
+    "ADVENT__INDEX_NOT_AVAILABLE": "Not available",
+  
+    "ADVENT__ADD_GIFT": "Add a reward",
+    "ADVENT__EDIT_GIFT": "Edit a reward",
+    "ADVENT__DECEMBER": "December",
+  
+    "ADVENT__CONFIG_COMMAND": "Global order performed for each day retrieved.",
+    "ADVENT__CONFIG_COMMAND_DESC": "<b> {PLAYER} </b> = Nickname <br> <b> {DAY} </b> = Day retrieved <br> <b> Example: </b> <i> say { PLAYER} has received his day {DAY} </i> ",
+    "ADVENT__CONFIG_NEED_ONLINE": "Require the player to be logged in to receive his / her rewards.",
+    "ADVENT__CONFIG_SERVER_REQ": "If automatic selection is enabled then this parameter will not change anything",
+    "ADVENT__CONFIG_AUTO_SELECT": "Automatic server selection",
+    "ADVENT__CONFIG_AUTO_SELECT_DESC": "If you have servers linked with the plugin you can give the reward wherever the player is connected.",
+  
+    "ADVENT__SUCCESS_DELETE": "Successfully deleted!",
+    "ADVENT__SUCCESS_GIVE": "Reward (s) given in game!",
+  
+  
+    "ADVENT__ERROR_CHECK_GIFT": "An error has occurred, no reward is configured!",
+    "ADVENT__ERROR_MUST_BE_LOGGED": "You must be connected to the site to perform this action",
+    "ADVENT__ERROR_COLLECT": "An error has occurred, you must be logged in in-game!",
+    "ADVENT__ERROR_COLLECT_DATE": "It's not the right day! It's not {DAY} December!",
+    "ADVENT__ERROR_ALLREADY": "You have already collected this day!"
+     
 }
